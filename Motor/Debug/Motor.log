@@ -1,0 +1,50 @@
+﻿  Agent.cpp
+c:\mis cosas\cursos\funda\motor\motor\agent.cpp(14): warning C4244: 'argumento': conversión de 'T' a 'const unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  Camera2D.cpp
+  Error.cpp
+  GLProgram.cpp
+  Human.cpp
+c:\mis cosas\cursos\funda\motor\motor\human.cpp(15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\mis cosas\cursos\funda\motor\motor\human.cpp(28): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  ImageLoader.cpp
+c:\mis cosas\cursos\funda\motor\motor\imageloader.cpp(36): warning C4244: '=': conversión de 'unsigned long' a 'float'; posible pérdida de datos
+c:\mis cosas\cursos\funda\motor\motor\imageloader.cpp(37): warning C4244: '=': conversión de 'unsigned long' a 'float'; posible pérdida de datos
+  InputManager.cpp
+  IOManager.cpp
+c:\mis cosas\cursos\funda\motor\motor\iomanager.cpp(15): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+c:\mis cosas\cursos\funda\motor\motor\iomanager.cpp(18): warning C4244: '-=': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+  Level.cpp
+c:\mis cosas\cursos\funda\motor\motor\level.cpp(38): warning C4018: '<': no coinciden signed/unsigned
+c:\mis cosas\cursos\funda\motor\motor\level.cpp(40): warning C4018: '<': no coinciden signed/unsigned
+c:\mis cosas\cursos\funda\motor\motor\level.cpp(65): warning C4244: '=': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\mis cosas\cursos\funda\motor\motor\level.cpp(66): warning C4244: '=': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  main.cpp
+  MainGame.cpp
+c:\mis cosas\cursos\funda\motor\motor\maingame.cpp(36): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\mis cosas\cursos\funda\motor\motor\maingame.cpp(113): warning C4244: 'argumento': conversión de 'Sint32' a 'float'; posible pérdida de datos
+  PapuEngine.cpp
+  picoPNG.cpp
+  Player.cpp
+  ResourceManager.cpp
+  Sprite.cpp
+  SpriteBatch.cpp
+c:\mis cosas\cursos\funda\motor\motor\spritebatch.cpp(15): warning C4018: '<': no coinciden signed/unsigned
+c:\mis cosas\cursos\funda\motor\motor\spritebatch.cpp(44): warning C4018: '<': no coinciden signed/unsigned
+c:\mis cosas\cursos\funda\motor\motor\spritebatch.cpp(72): warning C4018: '<': no coinciden signed/unsigned
+  TextureCache.cpp
+  Window.cpp
+  Zombie.cpp
+  Generando código...
+  Motor.vcxproj -> C:\MIS COSAS\CURSOS\FUNDA\Motor\Debug\Motor.exe
